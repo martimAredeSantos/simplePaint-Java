@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="simple-graphics">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/org/code4all/gunix/simple-graphics" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/org/code4all/gunix/simple-graphics/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/org/code4all/gunix/simple-graphics/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

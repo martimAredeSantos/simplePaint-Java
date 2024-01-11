@@ -1,0 +1,37 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(­¬Žëøÿÿÿÿ8žÂ†í´1
+…
+java:S1319"cThe type of "gridID" should be an interface such as "Map" rather than the implementation "HashMap".(­¬Žëøÿÿÿÿ8ŸÂ†í´1
+u
+java:S1104	"SMake PADDING a static final constant or non-public and provide accessors if needed.(·ÁóÇýÿÿÿÿ8ŸÂ†í´1
+q
+java:S1104"TMake cellSize a static final constant or non-public and provide accessors if needed.(²òšª8 Â†í´1
+t
+java:S1104"RMake gridID a static final constant or non-public and provide accessors if needed.(­¬Žëøÿÿÿÿ8 Â†í´1
+O
+java:S1444	"-Make this "public static PADDING" field final(·ÁóÇýÿÿÿÿ8 Â†í´1
+K
+java:S1444".Make this "public static cellSize" field final(²òšª8 Â†í´1
+N
+java:S1444",Make this "public static gridID" field final(­¬Žëøÿÿÿÿ8 Â†í´1
+d
+java:S2184"BCast one of the operands of this addition operation to a "double".(ÖšÇ·þÿÿÿÿ8¡Â†í´1
+d
+java:S2184"BCast one of the operands of this addition operation to a "double".(ÖšÇ·þÿÿÿÿ8¡Â†í´1
+t
+java:S3008	"RRename this field "PADDING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÁóÇýÿÿÿÿ8©Â†í´1
+?
+java:S2386"Make this member "protected".(­¬Žëøÿÿÿÿ8ªÂ†í´1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(³¥Þ›ýÿÿÿÿ8íìŠí´1
+W
+java:S2209"5Change this instance-reference to a static reference.(³¥Þ›ýÿÿÿÿ8®Â†í´1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(§Ñæ‰þÿÿÿÿ8îìŠí´1
+W
+java:S2209"5Change this instance-reference to a static reference.(§Ñæ‰þÿÿÿÿ8îìŠí´1
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(Ó¼½•8®Â†í´1
+R
+java:S2209"5Change this instance-reference to a static reference.(Ó¼½•8îìŠí´1
