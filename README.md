@@ -1,20 +1,15 @@
 # simplePaint-Java
- a simple Monochrome Paint to test Mapping and Mouse Handling
 
-Click to Paint!
+A simple Monochrome Paint to test Mapping and Mouse Handling. Click to Paint!
 
+![paint no clicks](https://github.com/martimAredeSantos/simplePaint-Java/assets/147712420/9e2df42a-08b8-43c8-95e4-a00baecab83d)
 
-![paint no clicks](https://github.com/martimAredeSantos/simplePaint-Java/assets/147712420/8af6455d-27ae-4044-8245-33670a3e1848 | width=100)
+When you click, it converts the pixels to coordinates to get the Rectangle from a `HashMap<coordinate,Rectangle>` and fill it.
 
+![testing version](https://github.com/martimAredeSantos/simplePaint-Java/assets/147712420/5dcbd269-d13b-490d-b606-234c457b2156)
 
-When you click it converts the pixels to coordinates to get the Rectangle from a Hashmap<coordinate,Rectangle> and fill it
+Test version to check where the click is being registered and if the conversion to coordinates / get Rectangle from HashMap is being done correctly.
 
-![testing version](https://github.com/martimAredeSantos/simplePaint-Java/assets/147712420/9ac5504b-c445-42b1-8a0a-816fe18f6d0c | width=100)
+![draw done](https://github.com/martimAredeSantos/simplePaint-Java/assets/147712420/d72ed9dc-3eeb-43f7-8910-06479e9b0c4c)
 
-
-test version to check where the click is being registered and if the conversion to coordinates / get Rectangle from hasmap is being done correctly.
-
-
-![draw done](https://github.com/martimAredeSantos/simplePaint-Java/assets/147712420/5d8f2d6d-b80c-4d45-a6d9-4f6cffd99c43 | width=100)
-
-Going to remake this is JS with more functionalities
+Going to remake this in JS with more functionalities.
