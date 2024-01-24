@@ -1,6 +1,6 @@
 # simplePaint-Java
 
-A simple Monochrome Paint to test Mapping and Mouse Handling. Click to Paint!
+A simple Monochrome Paint to test Mapping and Mouse Handling. Click to Paint! 
 
 ![paint no clicks](https://github.com/martimAredeSantos/simplePaint-Java/assets/147712420/9e2df42a-08b8-43c8-95e4-a00baecab83d)
 
